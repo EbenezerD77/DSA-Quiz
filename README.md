@@ -1,4 +1,5 @@
 # DSA-Quiz
-Name: Abenezer Degife Yirga /n
-I.D: ATE/2172/15 /n
-Section: 02
+Name: Abenezer Degife Yirga   
+I.D: ATE/2172/15   
+Section: 02   
+
